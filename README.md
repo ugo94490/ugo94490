@@ -24,26 +24,36 @@ Hi there 👋, I'm
 <!-- Experienced -->
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=c&logoColor=ffffff&message=C&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=c%2B%2B&logoColor=ffffff&message=C%2B%2B&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=gnu-bash&logoColor=ffffff&message=Shell%20Script&style=flat-square" />
-<br />
-<!-- Familiar -->
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=python&logoColor=ffffff&message=Python&style=flat-square" />
 <br />
-<!-- Frameworks and Libraries -->
+<!-- Familiar -->
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=gnu-bash&logoColor=ffffff&message=Shell%20Script&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=rust&logoColor=ffffff&message=Rust&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=haskell&logoColor=ffffff&message=Haskell&style=flat-square" />
+<br />
+<!-- Framework -->
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=pytorch&logoColor=ffffff&message=PyTorch&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=tensorflow&logoColor=ffffff&message=TensorFlow&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=flutter&logoColor=ffffff&message=Flutter&style=flat-square" />
 <br />
 <!-- Tools and Technologies -->
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=jenkins&logoColor=ffffff&message=Jenkins&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=docker&logoColor=ffffff&message=Docker&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=git&logoColor=ffffff&message=Git&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=aws&logoColor=ffffff&message=AWS&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=Amazon AWS&logoColor=ffffff&message=AWS&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=Amazon S3&logoColor=ffffff&message=S3&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=json&logoColor=ffffff&message=JSON&style=flat-square" />
 <br />
-<!-- Operating Systems -->
+<!-- WorkFlow -->
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=visual-studio-code&logoColor=ffffff&message=Visual%20Studio%20Code&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=airtable&logoColor=ffffff&message=AirTable&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=cmake&logoColor=ffffff&message=CMake&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=gitlab&logoColor=ffffff&message=GitLab&style=flat-square" />
+<br />
+<!-- Operating Systems & WorkFlow-->
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=linux&logoColor=ffffff&message=Linux&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=windows&logoColor=ffffff&message=Windows&style=flat-square" />
 <br />
-<!-- Workflow -->
-<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=visual-studio-code&logoColor=ffffff&message=Visual%20Studio%20Code&style=flat-square" />
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?color=0366d6&style=flat-square&username=ugo94490" />
