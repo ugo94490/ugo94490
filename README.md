@@ -8,11 +8,8 @@ Hi there 👋, I'm
 <a href="https://www.linkedin.com/in/ugo-levi-cescutti"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge" /></a>
 <br />
 <!-- Coding Platforms -->
-<!-- <a href="https://www.codechef.com/users/ugo94490"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=codechef&logoColor=ffffff&message=CodeChef&style=for-the-badge" /></a>
-<a href="https://codeforces.com/profile/ugo94490"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=codeforces&logoColor=ffffff&message=Codeforces&style=for-the-badge" /></a>
-<a href="https://www.hackerearth.com/@ugo94490"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=HackerEarth&style=for-the-badge" /></a>
-<a href="https://www.hackerrank.com/ugo94490"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=HackerRank&style=for-the-badge" /></a>
--->
+<a href="https://www.hackerearth.com/@ugo94490"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=Hacker Earth&style=for-the-badge" /></a>
+<a href="https://www.hackerrank.com/ugo_levi_cescut1?hr_r=1"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=Hacker Rank&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
