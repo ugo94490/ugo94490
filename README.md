@@ -45,7 +45,9 @@ Hi there 👋, I'm
 <!-- Workflow -->
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=visual-studio-code&logoColor=ffffff&message=Visual%20Studio%20Code&style=flat-square" />
 </p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?color=0366d6&style=flat-square&username=ugo94490" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugo94490&layout=compact" />
 </p>
