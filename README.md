@@ -24,8 +24,9 @@ Hi there 👋, I'm
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=python&logoColor=ffffff&message=Python&style=flat-square" />
 <br />
 <!-- Familiar -->
-<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=gnu-bash&logoColor=ffffff&message=Shell%20Script&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=rust&logoColor=ffffff&message=Rust&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=go&logoColor=ffffff&message=Go&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=gnu-bash&logoColor=ffffff&message=Shell%20Script&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=haskell&logoColor=ffffff&message=Haskell&style=flat-square" />
 <br />
 <!-- Framework -->
